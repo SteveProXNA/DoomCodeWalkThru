@@ -1,0 +1,5 @@
+i_simd.o: i_simd.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

@@ -1,0 +1,168 @@
+﻿; CVARs
+alwaysrun off
+am_allmapcdwallcolor 99
+am_allmapfdwallcolor 99
+am_allmapwallcolor 99
+am_backcolor 0
+am_bluedoorcolor 231
+am_bluekeycolor 112
+am_cdwallcolor 231
+am_crosshaircolor 96
+am_external off
+am_fdwallcolor 64
+am_gridcolor 104
+am_gridsize 128x128
+am_markcolor 103
+am_path off
+am_playercolor 209
+am_playerstats off
+am_reddoorcolor 231
+am_redkeycolor 112
+am_rotatemode off
+am_teleportercolor 184
+am_thingcolor 112
+am_tswallcolor 96
+am_wallcolor 176
+am_yellowdoorcolor 231
+am_yellowkeycolor 112
+autoaim on
+autoload off
+autosave off
+autotilt off
+autouse off
+centerweapon off
+crosshair none
+facebackcolor 5
+fade off
+flashkeys off
+groupmessages off
+infighting off
+infiniteheight on
+joy_analog off
+joy_invertyaxis off
+joy_rumble_barrels 0%
+joy_rumble_damage 0%
+joy_rumble_weapons 0%
+joy_sensitivity_horizontal 16
+joy_swapthumbsticks off
+joy_thumbsticks 1
+m_acceleration off
+m_doubleclick_use on
+m_novertical off
+m_sensitivity 8
+melt on
+messages on
+mouselook off
+movebob 100%
+negativehealth off
+playername "you"
+r_althud off
+r_blood red
+r_blood_melee off
+r_bloodsplats_max 0
+r_brightmaps off
+r_color 100%
+r_corpses_color off
+r_corpses_gib off
+r_corpses_mirrored off
+r_corpses_moreblood off
+r_corpses_nudge off
+r_corpses_slide off
+r_corpses_smearblood off
+r_damageeffect on
+r_detail low
+r_diskicon on
+r_ditheredlighting off
+r_fixmaperrors off
+r_fixspriteoffsets off
+r_floatbob off
+r_fov 90
+r_gamma off
+r_graduallighting off
+r_homindicator off
+r_hud off
+r_hud_translucency off
+r_liquid_bob off
+r_liquid_clipsprites off
+r_liquid_current off
+r_liquid_lowerview off
+r_liquid_swirl off
+r_lowpixelsize 2x2
+r_mirroredweapons off
+r_pickupeffect on
+r_playersprites on
+r_radsuiteffect on
+r_randomstartframes off
+r_rockettrails off
+r_screensize 6
+r_shadows off
+r_shake_barrels off
+r_shake_damage 0%
+r_sprites_translucency off
+r_supersampling off
+r_textures on
+r_textures_translucency off
+s_channels 8
+s_lowermenumusic off
+s_randommusic off
+s_randompitch off
+s_stereo on
+secretmessages off
+stillbob 0%
+tossdrop off
+turbo 100%
+vid_capfps 35
+vid_motionblur 0%
+vid_pillarboxes off
+vid_showfps off
+vid_widescreen off
+weaponbob 100%
+weaponbounce off
+weaponrecoil off
+
+; CCMDs
+freeze off
+notarget off
+pistolstart off
+regenhealth off
+respawnitems off
+timer 0
+
+; bound controls
+bind tab +automap
+bind back +automap
+bind down +back
+bind 'c' +clearmark
+bind tilde +console
+bind ctrl +fire
+bind mouse1 +fire
+bind righttrigger +fire
+bind 'f' +followmode
+bind up +forward
+bind 'g' +grid
+bind left +left
+bind 'm' +mark
+bind '0' +maxzoom
+bind escape +menu
+bind start +menu
+bind right +right
+bind shift +run
+bind lefttrigger +run
+bind alt +strafe
+bind mouse2 +strafe
+bind ',' +strafeleft
+bind '.' +straferight
+bind space +use
+bind button1 +use
+bind rightthumb +use
+bind '1' +weapon1
+bind '2' +weapon2
+bind '3' +weapon3
+bind '4' +weapon4
+bind '5' +weapon5
+bind '6' +weapon6
+bind '7' +weapon7
+bind '+' +zoomin
+bind rightshoulder +zoomin
+bind '-' +zoomout
+bind leftshoulder +zoomout
